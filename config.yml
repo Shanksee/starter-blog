@@ -9,7 +9,7 @@ canonicalurl: true
 theme: hyde
 date:
   format: j F Y
-  timezone: Europe/Paris
+  timezone: Europe/Rome
 output:
   formats:
     netlify_redirects:
